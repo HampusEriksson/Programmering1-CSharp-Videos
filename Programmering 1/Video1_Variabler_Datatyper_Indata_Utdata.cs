@@ -1,4 +1,4 @@
-﻿internal class Program
+﻿internal class Video1_Variabler_Datatyper_Indata_Utdata
 {
     private static void Main(string[] args)
     {

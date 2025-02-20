@@ -1,6 +1,5 @@
-﻿namespace Video2_Operatorer
-{
-    internal class Program
+﻿
+    internal class Video2_Operatorer    
     {
         static void Main(string[] args)
         {
@@ -37,4 +36,3 @@
             Console.WriteLine($"If you have {number5} bullar split by {number6} people, there will be {rest_bullar} left.");
         }
     }
-}
