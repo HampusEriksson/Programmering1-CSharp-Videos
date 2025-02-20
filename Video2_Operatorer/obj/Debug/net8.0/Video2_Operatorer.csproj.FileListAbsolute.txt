@@ -1,0 +1,15 @@
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\bin\Debug\net8.0\Video2_Operatorer.exe
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\bin\Debug\net8.0\Video2_Operatorer.deps.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\bin\Debug\net8.0\Video2_Operatorer.runtimeconfig.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\bin\Debug\net8.0\Video2_Operatorer.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\bin\Debug\net8.0\Video2_Operatorer.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.AssemblyInfoInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.AssemblyInfo.cs
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.csproj.CoreCompileInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.sourcelink.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\refint\Video2_Operatorer.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\Video2_Operatorer.genruntimeconfig.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video2_Operatorer\obj\Debug\net8.0\ref\Video2_Operatorer.dll
