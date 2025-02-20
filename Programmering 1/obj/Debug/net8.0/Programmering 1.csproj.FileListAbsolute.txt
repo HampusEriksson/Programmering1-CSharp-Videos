@@ -1,0 +1,14 @@
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\bin\Debug\net8.0\Programmering 1.exe
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\bin\Debug\net8.0\Programmering 1.deps.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\bin\Debug\net8.0\Programmering 1.runtimeconfig.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\bin\Debug\net8.0\Programmering 1.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\bin\Debug\net8.0\Programmering 1.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.AssemblyInfoInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.AssemblyInfo.cs
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.csproj.CoreCompileInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\refint\Programmering 1.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.genruntimeconfig.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\ref\Programmering 1.dll
