@@ -12,3 +12,4 @@ C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj
 C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.pdb
 C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.genruntimeconfig.cache
 C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\ref\Programmering 1.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Programmering 1\obj\Debug\net8.0\Programmering 1.sourcelink.json

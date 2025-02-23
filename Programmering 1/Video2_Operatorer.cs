@@ -1,5 +1,5 @@
 ﻿
-    internal class Video2_Operatorer    
+    internal class Video2_Operatorer  
     {
         static void Main(string[] args)
         {
