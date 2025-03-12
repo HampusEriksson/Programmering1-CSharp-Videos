@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video 5 - While_loopar", "Video 5 - While_loopar.csproj", "{5B33A649-6D11-467C-B62E-8B9E9F5CDA91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B33A649-6D11-467C-B62E-8B9E9F5CDA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B33A649-6D11-467C-B62E-8B9E9F5CDA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B33A649-6D11-467C-B62E-8B9E9F5CDA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B33A649-6D11-467C-B62E-8B9E9F5CDA91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F18F82-0F8A-4579-B730-6512016BD777}
+	EndGlobalSection
+EndGlobal

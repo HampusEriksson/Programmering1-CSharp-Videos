@@ -1,0 +1,15 @@
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\bin\Debug\net8.0\Video 5 - While_loopar.exe
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\bin\Debug\net8.0\Video 5 - While_loopar.deps.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\bin\Debug\net8.0\Video 5 - While_loopar.runtimeconfig.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\bin\Debug\net8.0\Video 5 - While_loopar.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\bin\Debug\net8.0\Video 5 - While_loopar.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.AssemblyInfoInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.AssemblyInfo.cs
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.csproj.CoreCompileInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.sourcelink.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\refint\Video 5 - While_loopar.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\Video 5 - While_loopar.genruntimeconfig.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 5 - While_loopar\obj\Debug\net8.0\ref\Video 5 - While_loopar.dll
