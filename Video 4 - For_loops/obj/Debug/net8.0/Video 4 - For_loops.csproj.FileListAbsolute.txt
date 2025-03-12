@@ -1,0 +1,15 @@
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\bin\Debug\net8.0\Video 4 - For_loops.exe
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\bin\Debug\net8.0\Video 4 - For_loops.deps.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\bin\Debug\net8.0\Video 4 - For_loops.runtimeconfig.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\bin\Debug\net8.0\Video 4 - For_loops.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\bin\Debug\net8.0\Video 4 - For_loops.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.AssemblyInfoInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.AssemblyInfo.cs
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.csproj.CoreCompileInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.sourcelink.json
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\refint\Video 4 - For_loops.dll
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.pdb
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\Video 4 - For_loops.genruntimeconfig.cache
+C:\Users\hampu\Documents\GitHub\Programmering1-CSharp-Videos\Video 4 - For_loops\obj\Debug\net8.0\ref\Video 4 - For_loops.dll
